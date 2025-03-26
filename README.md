@@ -5,7 +5,7 @@
 
 - 🌱 I recently completed my **Data Science & ML Program** from **NIIT**
 
-- 📫 How to reach me **malai200226@gmail.com**
+- 📫 How to reach me **malai200126@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f0jG3O0Ip0XYsuQnV0HDr5cC10k650Wc/view?usp=drivesdk)
 <h3 align="left">Connect with me:</h3>
