@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **malai200226@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1f0jG3O0Ip0XYsuQnV0HDr5cC10k650Wc/view?usp=drivesdk]
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1u8GfJjYufYu5SCB_BYWMttqmxjoniPbn/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/annamalaigopi" target="_blank">
