@@ -55,39 +55,76 @@ Passionate About Designing, Building & Securing Modern Enterprise Networks While
 
 # 🛠 Networking Technologies
 
-<p>
+<p align="left">
 
+<!-- Cisco -->
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
+<!-- CCNA -->
 <img src="https://img.shields.io/badge/CCNA-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Routing-blue?style=for-the-badge"/>
+<!-- IPv4 -->
+<img src="https://img.shields.io/badge/IPv4-Networking-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Switching-green?style=for-the-badge"/>
+<!-- IPv6 -->
+<img src="https://img.shields.io/badge/IPv6-Networking-blueviolet?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/VLAN-orange?style=for-the-badge"/>
+<!-- Routing -->
+<img src="https://img.shields.io/badge/Routing-0052CC?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OSPF-red?style=for-the-badge"/>
+<!-- Switching -->
+<img src="https://img.shields.io/badge/Switching-28A745?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/EIGRP-purple?style=for-the-badge"/>
+<!-- VLAN -->
+<img src="https://img.shields.io/badge/VLAN-FF9800?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/ACL-darkgreen?style=for-the-badge"/>
+<!-- Inter VLAN -->
+<img src="https://img.shields.io/badge/Inter--VLAN-Routing-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NAT-blue?style=for-the-badge"/>
+<!-- STP -->
+<img src="https://img.shields.io/badge/STP-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/DHCP-yellow?style=for-the-badge"/>
+<!-- EtherChannel -->
+<img src="https://img.shields.io/badge/EtherChannel-795548?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/DNS-lightgrey?style=for-the-badge"/>
+<!-- OSPF -->
+<img src="https://img.shields.io/badge/OSPF-E53935?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/IPv6-blueviolet?style=for-the-badge"/>
+<!-- EIGRP -->
+<img src="https://img.shields.io/badge/EIGRP-8E24AA?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/STP-success?style=for-the-badge"/>
+<!-- RIP -->
+<img src="https://img.shields.io/badge/RIP-607D8B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/EtherChannel-informational?style=for-the-badge"/>
+<!-- BGP -->
+<img src="https://img.shields.io/badge/BGP-1565C0?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/WLAN-orange?style=for-the-badge"/>
+<!-- ACL -->
+<img src="https://img.shields.io/badge/ACL-2E7D32?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Network%20Security-red?style=for-the-badge"/>
+<!-- NAT -->
+<img src="https://img.shields.io/badge/NAT-3949AB?style=for-the-badge"/>
+
+<!-- DHCP -->
+<img src="https://img.shields.io/badge/DHCP-F9A825?style=for-the-badge"/>
+
+<!-- DNS -->
+<img src="https://img.shields.io/badge/DNS-455A64?style=for-the-badge"/>
+
+<!-- SSH -->
+<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge"/>
+
+<!-- Telnet -->
+<img src="https://img.shields.io/badge/Telnet-757575?style=for-the-badge"/>
+
+<!-- WLAN -->
+<img src="https://img.shields.io/badge/Wireless-2196F3?style=for-the-badge"/>
+
+<!-- Network Security -->
+<img src="https://img.shields.io/badge/Network-Security-red?style=for-the-badge"/>
+
+<!-- Troubleshooting -->
+<img src="https://img.shields.io/badge/Troubleshooting-success?style=for-the-badge"/>
 
 </p>
 
