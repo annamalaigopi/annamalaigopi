@@ -28,8 +28,9 @@ Passionate About Designing, Building & Securing Modern Enterprise Networks While
 - ⚡ Learning Network Automation
 - 🛡️ Interested in Network Security
 - 📫 Email: **malai200226@gmail.com**
-
-📄 Know about my experiences [📄 Resume](https://drive.google.com/file/d/1bxPKjEl7_wpjeUbv_uK1TG87fCd4EONU/view?usp=drive_link)
+- 
+  Know about my experiences [📄 Resume](https://drive.google.com/file/d/1bxPKjEl7_wpjeUbv_uK1TG87fCd4EONU/view?usp=drive_link)
+  
 ---
 
 # 🌐 Connect With Me
