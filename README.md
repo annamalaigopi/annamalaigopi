@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Annamalai Gopi</h1>
-<h3 align="left">Passionate About Transforming Data Into Powerful Insights & Captivating Visual Narratives.</h3>
+<h3 align="left">**Passionate About Designing, Building & Securing Modern Enterprise Networks While Delivering Reliable, Scalable Connectivity Solutions.**
+</h3>
 
 - ✨ **Network Engineer | Support Network Engineer| NOC Engineer | CCNA Trained  | M.Sc. Computer Science**
 
