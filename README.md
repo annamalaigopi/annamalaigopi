@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Annamalai Gopi</h1>
 <h3 align="left">Passionate About Transforming Data Into Powerful Insights & Captivating Visual Narratives.</h3>
 
-- ✨ **Data Scientist | Data Analyst | Business Intelligence Analyst**
+- ✨ **Network Engineer | Support Network Engineer| NOC Engineer | CCNA Trained  | M.Sc. Computer Science**
 
-- 🌱 I recently completed my **Data Science & ML Program** from **NIIT**
+- 🌱 I recently completed my **CCNA Training** from **Sansbound Networking**
 
 - 📫 How to reach me **malai200226@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f0jG3O0Ip0XYsuQnV0HDr5cC10k650Wc/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1f0jG3O0Ip0XYsuQnV0HDr5cC10k650Wc/view?usp=drivesdk]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/annamalaigopi" target="_blank">
