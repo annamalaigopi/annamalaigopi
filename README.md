@@ -60,9 +60,6 @@ Passionate About Designing, Building & Securing Modern Enterprise Networks While
 <!-- Cisco -->
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-<!-- CCNA -->
-<img src="https://img.shields.io/badge/CCNA-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
-
 <!-- IPv4 -->
 <img src="https://img.shields.io/badge/IPv4-Networking-blue?style=for-the-badge"/>
 
